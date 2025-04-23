@@ -353,7 +353,7 @@ const ipl2025Matches = [
     team1: "GT",
     team2: "SRH",
     date: "2025-05-02",
-    venue: "HPCA Cricket Stadium, Dharamsala",
+    venue: "Narendra Modi Stadium, Ahmedabad",
     winner: "",
   },
   {
@@ -423,7 +423,7 @@ const ipl2025Matches = [
     team1: "PBKS",
     team2: "MI",
     date: "2025-05-11",
-    venue: "New PCA Stadium, New Chandigarh",
+    venue: "HPCA Cricket Stadium, Dharamsala",
     winner: "",
   },
   {
