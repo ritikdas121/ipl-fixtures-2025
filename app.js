@@ -542,7 +542,7 @@ function populateMatches(team) {
         <p class="team2">${match.team2}</p>
       </div>
       <div class="winner">
-        <p class="w-team">${match.winner || '<span style="color : grey;">TBD</span>'}</p>
+        <p class="w-team">${match.winner || '<span style="color : grey; font-style : italic;">TBD</span>'}</p>
       </div>`;
       grid.appendChild(matchCard);
     }
