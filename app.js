@@ -284,7 +284,7 @@ const ipl2025Matches = [
     team2: "MI",
     date: "2025-04-23",
     venue: "Rajiv Gandhi International Stadium, Hyderabad",
-    winner: "",
+    winner: "MI",
   },
   {
     team1: "RCB",
