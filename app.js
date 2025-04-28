@@ -312,14 +312,14 @@ const ipl2025Matches = [
     team2: "LSG",
     date: "2025-04-27",
     venue: "Wankhede Stadium, Mumbai",
-    winner: "",
+    winner: "MI",
   },
   {
     team1: "DC",
     team2: "RCB",
     date: "2025-04-27",
     venue: "Arun Jaitley Stadium, New Delhi",
-    winner: "",
+    winner: "RCB",
   },
   {
     team1: "RR",
