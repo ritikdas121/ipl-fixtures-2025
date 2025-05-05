@@ -368,14 +368,14 @@ const ipl2025Matches = [
     team2: "RR",
     date: "2025-05-04",
     venue: "Eden Gardens, Kolkata",
-    winner: "",
+    winner: "KKR",
   },
   {
     team1: "PBKS",
     team2: "LSG",
     date: "2025-05-04",
     venue: "HPCA Cricket Stadium, Dharamsala",
-    winner: "",
+    winner: "PBKS",
   },
   {
     team1: "SRH",
