@@ -396,7 +396,7 @@ const ipl2025Matches = [
     team2: "CSK",
     date: "2025-05-07",
     venue: "Eden Gardens, Kolkata",
-    winner: "",
+    winner: "CSK",
   },
   {
     team1: "PBKS",
